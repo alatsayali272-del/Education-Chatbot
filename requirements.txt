@@ -1,0 +1,7 @@
+gradio
+requests
+python-dotenv
+faiss-cpu
+numpy
+PyPDF2
+gTTS
